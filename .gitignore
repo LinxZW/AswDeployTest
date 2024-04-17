@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+
+proyectoasw/db.sqlite3
+
+AppASW/migrations/
